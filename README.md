@@ -1,6 +1,6 @@
 # Plant Design Homepage
 
->Live Link : [Plant Design](https://google.com)
+>Live Link : [Plant Design](https://planthome-page.netlify.app/)
 
 >This site should look like this - 
 ![Pic](https://raw.githubusercontent.com/aadepeng/plant-design-homepage/main/Plant%20Design%20Homepage.png)
